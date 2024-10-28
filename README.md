@@ -6,12 +6,12 @@ Texas Product Community Hub is a clearinghouse for community events in and aroun
 
 Here's the approach this website may take:
 
-[x] Learn about other product camps and community product groups in Texas like in Houston and San Antonio.
-[x] Collect a list of active product groups and community enthusiasts
-[ ] Static Github Repo: List the things here to start feeding Google
-[ ] Share with Product Camp Austin network
-[ ] Add a [Github Pages](https://pages.github.com/) website to display this content
-[ ] Automation
+- [x] Learn about other product camps and community product groups in Texas like in Houston and San Antonio.
+- [x] Collect a list of active product groups and community enthusiasts
+- [ ] Static Github Repo: List the things here to start feeding Google
+- [ ] Share with Product Camp Austin network
+- [ ] Add a [Github Pages](https://pages.github.com/) website to display this content
+- [ ] Automation
 
 # Overview
 
