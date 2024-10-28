@@ -22,10 +22,10 @@ We'll start small with collecting Product Camps and other product community even
 # Texas Product Community Organizations
 
 ## Product Camps in Texas
-* [ProductCamp Austin](https://www.productcampaustin.org/) https://www.productcampaustin.org/
-* [Dallas Product Camp](https://productcampdallas.org/) https://productcampdallas.org/
-* [Houston Product Group](https://www.meetup.com/houston-product-management-group/) https://www.meetup.com/houston-product-management-group/
-* [Product Tank San Antonio](https://www.meetup.com/producttank-san-antonio/) https://www.meetup.com/producttank-san-antonio/
+* [ProductCamp Austin](https://www.productcampaustin.org/) `https://www.productcampaustin.org/`
+* [Dallas Product Camp](https://productcampdallas.org/) `https://productcampdallas.org/`
+* [Houston Product Group](https://www.meetup.com/houston-product-management-group/) `https://www.meetup.com/houston-product-management-group/`
+* [Product Tank San Antonio](https://www.meetup.com/producttank-san-antonio/) `https://www.meetup.com/producttank-san-antonio/`
 
 # Events
 
